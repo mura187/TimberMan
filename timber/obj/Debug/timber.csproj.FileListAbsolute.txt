@@ -1,0 +1,9 @@
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\bin\Debug\timber.exe.config
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\bin\Debug\timber.exe
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\bin\Debug\timber.pdb
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\obj\Debug\timber.csprojResolveAssemblyReference.cache
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\obj\Debug\timber.Form1.resources
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\obj\Debug\timber.Properties.Resources.resources
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\obj\Debug\timber.csproj.GenerateResource.Cache
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\obj\Debug\timber.exe
+c:\users\мурат\documents\visual studio 2017\Projects\timber\timber\obj\Debug\timber.pdb
